@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Software-enthusiast1
-- 👀 I’m interested in, well, software.
-- 🌱 I’m currently learning to use this platform.
-- 📫 You can email me at christopher.d.curtis1@gmail.com
-- 😄 Pronouns: he/him 
+be patient with me because I'm still learning how to code while not being an idiot 
 
 <!---
 Software-enthusiast1/Software-enthusiast1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
